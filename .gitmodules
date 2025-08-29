@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/configterminal/word_go_plus_server.git
